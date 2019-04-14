@@ -1,0 +1,11 @@
+﻿  simpl_Equation.cpp
+d:\vs\projects(2503)\simpl_equation\simpl_equation\classes.h(5): warning C4114: множественное использование одного и того же квалификатора типа
+d:\vs\projects(2503)\simpl_equation\simpl_equation\classes.h(6): warning C4114: множественное использование одного и того же квалификатора типа
+d:\vs\projects(2503)\simpl_equation\simpl_equation\classes.h(7): warning C4114: множественное использование одного и того же квалификатора типа
+d:\vs\projects(2503)\simpl_equation\simpl_equation\classes.h(48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\vs\projects(2503)\simpl_equation\simpl_equation\classes.h(118): warning C4114: множественное использование одного и того же квалификатора типа
+d:\vs\projects(2503)\simpl_equation\simpl_equation\classes.h(125): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\vs\projects(2503)\simpl_equation\simpl_equation\simpl_equation.cpp(19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vs\projects(2503)\simpl_equation\simpl_equation\simpl_equation.cpp(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vs\projects(2503)\simpl_equation\simpl_equation\simpl_equation.cpp(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  simpl_Equation.vcxproj -> D:\VS\Projects(2503)\simpl_Equation\x64\Debug\Equation.exe
